@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'M Ahmed Atef</h1>
+<h1 align="center">Hello 👋 I'm Ahmed Atef</h1>
 <h3 align="center">A student at Coventry University, delves into the complexities of cybersecurity, pursuing a BSc in Ethical Hacking with a passion for safeguarding digital landscapes ethically.</h3>
 
 
