@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Ahmed Atef</h1>
-<h3 align="center">A student at Coventry University, delves into the complexities of cybersecurity, pursuing a BSc in Ethical Hacking with a passion for safeguarding digital landscapes ethically.</h3>
+<h3 align="center">A student at Coventry University, pursuing a Bachelor of Science in Ethical Hacking and Cyber Security.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
